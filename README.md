@@ -7,6 +7,6 @@ Railway_Reservation_System in java is implemented to perform simple function of 
 All these basic functionality of Railway Reservation System are implemented in java.
 
 Technologies Used:
-Front End : Advance Java(Frames)
+Front End : Advance Java(AWT,Swing ,JFrames)
 Back-end : Mysql, Java.
 
